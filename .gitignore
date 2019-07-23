@@ -1,0 +1,7 @@
+*~
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.orig
+.DS_Store
+rescue-backup/
