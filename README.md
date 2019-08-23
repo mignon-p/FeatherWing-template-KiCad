@@ -1,5 +1,5 @@
-This repository contains a [KiCad][1] 5 [template][4] for making
-[FeatherWing][2] boards.
+The `FeatherWing_KC5` directory of this repository contains a
+[KiCad][1] 5 [template][4] for making [FeatherWing][2] boards.
 
 Since Adafruit does not provide standardized names for the GPIO pins,
 I came up with [my own scheme][3] that numbers the digital pins F0-F6.
